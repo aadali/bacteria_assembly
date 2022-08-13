@@ -1,0 +1,9 @@
+input_long: ""
+input_short: ""
+genome: ""
+genome_size: ""
+min_read_len: "1000"
+min_read_qual: 10
+analysis_name: "test001"
+model: "r941_min_hac_g507"
+data_type: "ont"

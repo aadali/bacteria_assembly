@@ -1,0 +1,2142 @@
+{
+  "nusA": [
+    "Achromobacter_spp."
+  ],
+  "rpoB": [
+    "Achromobacter_spp.",
+    "Bacillus_licheniformis",
+    "Bacteroides_fragilis",
+    "Bartonella_bacilliformis",
+    "Bartonella_henselae",
+    "Bartonella_washoensis",
+    "Clostridium_botulinum",
+    "Corynebacterium_diphtheriae",
+    "Enterobacter_cloacae",
+    "Glaesserella_parasuis",
+    "Klebsiella_aerogenes",
+    "Klebsiella_oxytoca",
+    "Klebsiella_pneumoniae",
+    "Mycobacteroides_abscessus",
+    "Mycoplasma_flocculare",
+    "Mycoplasma_gallisepticum#2",
+    "Mycoplasma_hyopneumoniae",
+    "Mycoplasma_hyorhinis",
+    "Paenibacillus_larvae",
+    "Pseudomonas_fluorescens",
+    "Pseudomonas_putida",
+    "Rhodococcus_spp.",
+    "Riemerella_anatipestifer",
+    "Streptococcus_thermophilus#2",
+    "Streptomyces_spp"
+  ],
+  "eno": [
+    "Achromobacter_spp."
+  ],
+  "gltB": [
+    "Achromobacter_spp.",
+    "Burkholderia_cepacia_complex",
+    "Burkholderia_pseudomallei",
+    "Cronobacter_spp."
+  ],
+  "lepA": [
+    "Achromobacter_spp.",
+    "Burkholderia_cepacia_complex",
+    "Burkholderia_pseudomallei",
+    "Cutibacterium_acnes"
+  ],
+  "nuoL": [
+    "Achromobacter_spp.",
+    "Xylella_fastidiosa"
+  ],
+  "nrdA": [
+    "Achromobacter_spp."
+  ],
+  "Oxf_gltA": [
+    "Acinetobacter_baumannii#1"
+  ],
+  "Oxf_gyrB": [
+    "Acinetobacter_baumannii#1"
+  ],
+  "Oxf_gdhB": [
+    "Acinetobacter_baumannii#1"
+  ],
+  "Oxf_recA": [
+    "Acinetobacter_baumannii#1"
+  ],
+  "Oxf_cpn60": [
+    "Acinetobacter_baumannii#1"
+  ],
+  "Oxf_gpi": [
+    "Acinetobacter_baumannii#1"
+  ],
+  "Oxf_rpoD": [
+    "Acinetobacter_baumannii#1"
+  ],
+  "Pas_cpn60": [
+    "Acinetobacter_baumannii#2"
+  ],
+  "Pas_fusA": [
+    "Acinetobacter_baumannii#2"
+  ],
+  "Pas_gltA": [
+    "Acinetobacter_baumannii#2"
+  ],
+  "Pas_pyrG": [
+    "Acinetobacter_baumannii#2"
+  ],
+  "Pas_recA": [
+    "Acinetobacter_baumannii#2"
+  ],
+  "Pas_rplB": [
+    "Acinetobacter_baumannii#2"
+  ],
+  "Pas_rpoB": [
+    "Acinetobacter_baumannii#2"
+  ],
+  "gyrB": [
+    "Aeromonas_spp.",
+    "Brucella_spp.",
+    "Burkholderia_cepacia_complex",
+    "Candidatus_Liberibacter_solanacearum",
+    "Clostridium_perfringens",
+    "Cronobacter_spp.",
+    "Enterobacter_cloacae",
+    "Escherichia_coli#1",
+    "Flavobacterium_psychrophilum",
+    "Gallibacterium_anatis",
+    "Klebsiella_aerogenes",
+    "Mycoplasma_agalactiae",
+    "Mycoplasma_bovis",
+    "Mycoplasma_hominis",
+    "Mycoplasma_hyorhinis",
+    "Mycoplasma_pneumoniae",
+    "Pediococcus_pentosaceus",
+    "Photobacterium_damselae",
+    "Pseudomonas_fluorescens",
+    "Pseudomonas_putida",
+    "Shewanella_spp.",
+    "Streptomyces_spp",
+    "Taylorella_spp.",
+    "Tenacibaculum_spp.",
+    "Vibrio_cholerae",
+    "Vibrio_parahaemolyticus",
+    "Vibrio_spp.",
+    "Vibrio_vulnificus",
+    "Yersinia_ruckeri"
+  ],
+  "groL": [
+    "Aeromonas_spp.",
+    "Bacteroides_fragilis"
+  ],
+  "gltA": [
+    "Aeromonas_spp.",
+    "Arcobacter_spp.",
+    "Bartonella_henselae",
+    "Bartonella_washoensis",
+    "Campylobacter_jejuni",
+    "Taylorella_spp."
+  ],
+  "metG": [
+    "Aeromonas_spp.",
+    "Photobacterium_damselae",
+    "Vibrio_vulnificus"
+  ],
+  "ppsA": [
+    "Aeromonas_spp.",
+    "Pseudomonas_aeruginosa",
+    "Pseudomonas_putida",
+    "Stenotrophomonas_maltophilia"
+  ],
+  "recA": [
+    "Aeromonas_spp.",
+    "Aggregatibacter_actinomycetemcomitans",
+    "Bacteroides_fragilis",
+    "Burkholderia_cepacia_complex",
+    "Clostridioides_difficile",
+    "Clostridium_botulinum",
+    "Clostridium_septicum",
+    "Escherichia_coli#1",
+    "Haemophilus_influenzae",
+    "Kingella_kingae",
+    "Mycoplasma_synoviae",
+    "Porphyromonas_gingivalis",
+    "Pseudomonas_fluorescens",
+    "Pseudomonas_putida",
+    "Rhodococcus_spp.",
+    "Shewanella_spp.",
+    "Sinorhizobium_spp.",
+    "Staphylococcus_lugdunensis",
+    "Stenotrophomonas_maltophilia",
+    "Streptococcus_suis",
+    "Streptococcus_thermophilus#2",
+    "Streptomyces_spp",
+    "Vibrio_cholerae#2",
+    "Vibrio_parahaemolyticus",
+    "Vibrio_spp.",
+    "Vibrio_tapetis",
+    "Yersinia_ruckeri"
+  ],
+  "adk": [
+    "Aggregatibacter_actinomycetemcomitans",
+    "Bacillus_licheniformis",
+    "Bordetella_spp.",
+    "Candidatus_Liberibacter_solanacearum",
+    "Clostridioides_difficile",
+    "Edwardsiella_spp.",
+    "Enterococcus_faecium",
+    "Escherichia_coli#1",
+    "Gallibacterium_anatis",
+    "Haemophilus_influenzae",
+    "Kingella_kingae",
+    "Mannheimia_haemolytica",
+    "Moraxella_catarrhalis",
+    "Mycoplasma_flocculare",
+    "Mycoplasma_hyopneumoniae",
+    "Mycoplasma_hyorhinis",
+    "Mycoplasma_pneumoniae",
+    "Mycoplasma_synoviae",
+    "Neisseria_spp.",
+    "Ornithobacterium_rhinotracheale",
+    "Rhodococcus_spp.",
+    "Shewanella_spp.",
+    "Taylorella_spp.",
+    "Vibrio_cholerae",
+    "Yersinia_pseudotuberculosis"
+  ],
+  "atpG": [
+    "Aggregatibacter_actinomycetemcomitans",
+    "Haemophilus_influenzae",
+    "Mycoplasma_anserisalpingitidis",
+    "Mycoplasma_gallisepticum#1",
+    "Mycoplasma_synoviae"
+  ],
+  "frdB": [
+    "Aggregatibacter_actinomycetemcomitans",
+    "Glaesserella_parasuis",
+    "Haemophilus_influenzae"
+  ],
+  "mdh": [
+    "Aggregatibacter_actinomycetemcomitans",
+    "Anaplasma_phagocytophilum",
+    "Citrobacter_freundii",
+    "Clostridium_botulinum",
+    "Escherichia_coli#1",
+    "Gallibacterium_anatis",
+    "Glaesserella_parasuis",
+    "Haemophilus_influenzae",
+    "Klebsiella_oxytoca",
+    "Klebsiella_pneumoniae",
+    "Mannheimia_haemolytica",
+    "Orientia_tsutsugamushi",
+    "Ornithobacterium_rhinotracheale",
+    "Rhodococcus_spp.",
+    "Riemerella_anatipestifer",
+    "Shewanella_spp.",
+    "Vibrio_cholerae",
+    "Vibrio_vulnificus"
+  ],
+  "pgi": [
+    "Aggregatibacter_actinomycetemcomitans",
+    "Haemophilus_influenzae",
+    "Klebsiella_oxytoca",
+    "Klebsiella_pneumoniae",
+    "Ornithobacterium_rhinotracheale"
+  ],
+  "zwf": [
+    "Aggregatibacter_actinomycetemcomitans",
+    "Mannheimia_haemolytica",
+    "Sinorhizobium_spp."
+  ],
+  "pheS": [
+    "Anaplasma_phagocytophilum",
+    "Streptococcus_agalactiae",
+    "Streptococcus_bovis#equinus_complex__SBSEC_"
+  ],
+  "glyA": [
+    "Anaplasma_phagocytophilum",
+    "Arcobacter_spp.",
+    "Bordetella_spp.",
+    "Campylobacter_jejuni",
+    "Candidatus_Liberibacter_solanacearum",
+    "Clostridioides_difficile",
+    "Mycoplasma_pneumoniae",
+    "Piscirickettsia_salmonis",
+    "Tenacibaculum_spp."
+  ],
+  "fumC": [
+    "Anaplasma_phagocytophilum",
+    "Bordetella_spp.",
+    "Chlamydiales_spp.",
+    "Escherichia_coli#1",
+    "Flavobacterium_psychrophilum",
+    "Gallibacterium_anatis",
+    "Moraxella_catarrhalis",
+    "Neisseria_spp.",
+    "Ornithobacterium_rhinotracheale",
+    "Piscirickettsia_salmonis",
+    "Staphylococcus_chromogenes"
+  ],
+  "sucA": [
+    "Anaplasma_phagocytophilum",
+    "Salmonella_enterica",
+    "Sinorhizobium_spp."
+  ],
+  "dnaN": [
+    "Anaplasma_phagocytophilum",
+    "Salmonella_enterica"
+  ],
+  "atpA": [
+    "Anaplasma_phagocytophilum",
+    "Arcobacter_spp.",
+    "Candidatus_Liberibacter_solanacearum",
+    "Clostridioides_difficile",
+    "Corynebacterium_diphtheriae",
+    "Enterococcus_faecium",
+    "Flavobacterium_psychrophilum",
+    "Helicobacter_cinaedi",
+    "Helicobacter_pylori",
+    "Helicobacter_suis",
+    "Mycoplasma_pneumoniae",
+    "Tenacibaculum_spp.",
+    "Vibrio_spp.",
+    "Vibrio_tapetis"
+  ],
+  "aspA": [
+    "Arcobacter_spp.",
+    "Campylobacter_jejuni",
+    "Helicobacter_cinaedi"
+  ],
+  "glnA": [
+    "Arcobacter_spp.",
+    "Campylobacter_jejuni",
+    "Edwardsiella_spp.",
+    "Pediococcus_pentosaceus",
+    "Streptococcus_agalactiae",
+    "Streptococcus_bovis#equinus_complex__SBSEC_",
+    "Yersinia_pseudotuberculosis",
+    "Yersinia_ruckeri"
+  ],
+  "pgm": [
+    "Arcobacter_spp.",
+    "Bordetella_spp.",
+    "Campylobacter_jejuni",
+    "Mycoplasma_pneumoniae",
+    "Neisseria_spp.",
+    "Pediococcus_pentosaceus",
+    "Vibrio_cholerae#2"
+  ],
+  "tkt": [
+    "Arcobacter_spp.",
+    "Campylobacter_jejuni",
+    "Helicobacter_cinaedi",
+    "Mycoplasma_bovis",
+    "Streptococcus_agalactiae",
+    "Streptococcus_gallolyticus",
+    "Streptococcus_thermophilus"
+  ],
+  "ANX4": [
+    "Aspergillus_fumigatus"
+  ],
+  "BGT1": [
+    "Aspergillus_fumigatus"
+  ],
+  "CAT1": [
+    "Aspergillus_fumigatus"
+  ],
+  "LIP": [
+    "Aspergillus_fumigatus"
+  ],
+  "MAT1_2": [
+    "Aspergillus_fumigatus"
+  ],
+  "SODB": [
+    "Aspergillus_fumigatus"
+  ],
+  "ZRF2": [
+    "Aspergillus_fumigatus"
+  ],
+  "glp": [
+    "Bacillus_cereus",
+    "Vibrio_vulnificus"
+  ],
+  "gmk": [
+    "Bacillus_cereus",
+    "Cutibacterium_acnes",
+    "Mammaliicoccus_sciuri",
+    "Mycoplasma_hyorhinis",
+    "Mycoplasma_pneumoniae",
+    "Mycoplasma_synoviae",
+    "Staphylococcus_aureus",
+    "Staphylococcus_lugdunensis"
+  ],
+  "ilv": [
+    "Bacillus_cereus"
+  ],
+  "pta": [
+    "Bacillus_cereus",
+    "Bacillus_subtilis",
+    "Macrococcus_canis",
+    "Macrococcus_caseolyticus",
+    "Mycobacteroides_abscessus",
+    "Staphylococcus_aureus",
+    "Staphylococcus_chromogenes",
+    "Staphylococcus_hominis",
+    "Staphylococcus_pseudintermedius"
+  ],
+  "pur": [
+    "Bacillus_cereus"
+  ],
+  "pyc": [
+    "Bacillus_cereus",
+    "Carnobacterium_maltaromaticum",
+    "Pediococcus_pentosaceus"
+  ],
+  "tpi": [
+    "Bacillus_cereus",
+    "Clostridioides_difficile",
+    "Clostridium_septicum",
+    "Rhodococcus_spp.",
+    "Staphylococcus_aureus",
+    "Streptococcus_bovis#equinus_complex__SBSEC_",
+    "Streptococcus_uberis",
+    "Streptococcus_zooepidemicus"
+  ],
+  "ccpA": [
+    "Bacillus_licheniformis"
+  ],
+  "recF": [
+    "Bacillus_licheniformis"
+  ],
+  "spo0A": [
+    "Bacillus_licheniformis"
+  ],
+  "sucC": [
+    "Bacillus_licheniformis"
+  ],
+  "glpF": [
+    "Bacillus_subtilis",
+    "Paenibacillus_larvae",
+    "Photobacterium_damselae",
+    "Staphylococcus_aureus",
+    "Staphylococcus_chromogenes"
+  ],
+  "ilvD": [
+    "Bacillus_subtilis"
+  ],
+  "purH": [
+    "Bacillus_subtilis",
+    "Mycobacteroides_abscessus"
+  ],
+  "pycA": [
+    "Bacillus_subtilis"
+  ],
+  "rpoD": [
+    "Bacillus_subtilis",
+    "Piscirickettsia_salmonis",
+    "Pseudomonas_fluorescens",
+    "Pseudomonas_putida",
+    "Vibrio_tapetis"
+  ],
+  "tpiA": [
+    "Bacillus_subtilis",
+    "Mammaliicoccus_sciuri",
+    "Mycoplasma_flocculare",
+    "Mycoplasma_hyopneumoniae",
+    "Staphylococcus_epidermidis",
+    "Staphylococcus_hominis"
+  ],
+  "dnaJ": [
+    "Bacteroides_fragilis",
+    "Edwardsiella_spp.",
+    "Staphylococcus_chromogenes",
+    "Yersinia_ruckeri"
+  ],
+  "fusA": [
+    "Bacteroides_fragilis",
+    "Corynebacterium_diphtheriae",
+    "Cronobacter_spp.",
+    "Enterobacter_cloacae",
+    "Klebsiella_aerogenes",
+    "Mycoplasma_anserisalpingitidis",
+    "Mycoplasma_gallisepticum#2"
+  ],
+  "prfA": [
+    "Bacteroides_fragilis"
+  ],
+  "rprX": [
+    "Bacteroides_fragilis"
+  ],
+  "ftsZ": [
+    "Bartonella_bacilliformis",
+    "Bartonella_henselae",
+    "Bartonella_washoensis",
+    "Candidatus_Liberibacter_solanacearum",
+    "Mammaliicoccus_sciuri",
+    "Wolbachia"
+  ],
+  "flaA": [
+    "Bartonella_bacilliformis"
+  ],
+  "ribC": [
+    "Bartonella_bacilliformis",
+    "Bartonella_henselae",
+    "Bartonella_washoensis"
+  ],
+  "rnpB": [
+    "Bartonella_bacilliformis"
+  ],
+  "bvrR": [
+    "Bartonella_bacilliformis"
+  ],
+  "groEL": [
+    "Bartonella_bacilliformis",
+    "Bartonella_henselae",
+    "Bartonella_washoensis",
+    "Candidatus_Liberibacter_solanacearum",
+    "Clostridium_perfringens",
+    "Clostridium_septicum",
+    "Riemerella_anatipestifer"
+  ],
+  "16S": [
+    "Bartonella_henselae",
+    "Bartonella_washoensis",
+    "Streptomyces_spp"
+  ],
+  "batR": [
+    "Bartonella_henselae"
+  ],
+  "nlpD": [
+    "Bartonella_henselae"
+  ],
+  "tyrB": [
+    "Bordetella_spp.",
+    "Taylorella_spp."
+  ],
+  "icd": [
+    "Bordetella_spp.",
+    "Escherichia_coli#1"
+  ],
+  "pepA": [
+    "Bordetella_spp."
+  ],
+  "clpA": [
+    "Borrelia_spp."
+  ],
+  "clpX": [
+    "Borrelia_spp.",
+    "Citrobacter_freundii",
+    "Streptococcus_thermophilus#2"
+  ],
+  "nifS": [
+    "Borrelia_spp.",
+    "Streptococcus_gallolyticus"
+  ],
+  "pepX": [
+    "Borrelia_spp.",
+    "Streptococcus_thermophilus#2"
+  ],
+  "pyrG": [
+    "Borrelia_spp.",
+    "Edwardsiella_spp.",
+    "Enterobacter_cloacae",
+    "Streptococcus_thermophilus#2"
+  ],
+  "recG": [
+    "Borrelia_spp."
+  ],
+  "rplB": [
+    "Borrelia_spp.",
+    "Enterobacter_cloacae",
+    "Klebsiella_aerogenes"
+  ],
+  "uvrA": [
+    "Borrelia_spp.",
+    "Mycoplasma_anserisalpingitidis",
+    "Mycoplasma_gallisepticum#2",
+    "Mycoplasma_hominis",
+    "Streptococcus_gallolyticus"
+  ],
+  "Bha_adh": [
+    "Brachyspira_hampsonii"
+  ],
+  "Bha_est": [
+    "Brachyspira_hampsonii"
+  ],
+  "Bha_gdh": [
+    "Brachyspira_hampsonii"
+  ],
+  "Bha_glpK": [
+    "Brachyspira_hampsonii"
+  ],
+  "Bha_pgm": [
+    "Brachyspira_hampsonii"
+  ],
+  "Bha_thi": [
+    "Brachyspira_hampsonii"
+  ],
+  "Bhy_adh": [
+    "Brachyspira_hyodysenteriae"
+  ],
+  "Bhy_alp": [
+    "Brachyspira_hyodysenteriae"
+  ],
+  "Bhy_est": [
+    "Brachyspira_hyodysenteriae"
+  ],
+  "Bhy_gdh": [
+    "Brachyspira_hyodysenteriae"
+  ],
+  "Bhy_glpK": [
+    "Brachyspira_hyodysenteriae"
+  ],
+  "Bhy_pgm": [
+    "Brachyspira_hyodysenteriae"
+  ],
+  "Bhy_thi": [
+    "Brachyspira_hyodysenteriae"
+  ],
+  "Bin_adh": [
+    "Brachyspira_intermedia"
+  ],
+  "Bin_alp": [
+    "Brachyspira_intermedia"
+  ],
+  "Bin_est": [
+    "Brachyspira_intermedia"
+  ],
+  "Bin_gdh": [
+    "Brachyspira_intermedia"
+  ],
+  "Bin_glpK": [
+    "Brachyspira_intermedia"
+  ],
+  "Bin_pgm": [
+    "Brachyspira_intermedia"
+  ],
+  "Bin_thi": [
+    "Brachyspira_intermedia"
+  ],
+  "Bpi_adh": [
+    "Brachyspira_pilosicoli"
+  ],
+  "Bpi_alp": [
+    "Brachyspira_pilosicoli"
+  ],
+  "Bpi_est": [
+    "Brachyspira_pilosicoli"
+  ],
+  "Bpi_gdh": [
+    "Brachyspira_pilosicoli"
+  ],
+  "Bpi_glpK": [
+    "Brachyspira_pilosicoli"
+  ],
+  "Bpi_pgm": [
+    "Brachyspira_pilosicoli"
+  ],
+  "Bpi_thi": [
+    "Brachyspira_pilosicoli"
+  ],
+  "Bra_adh": [
+    "Brachyspira_spp."
+  ],
+  "Bra_alp": [
+    "Brachyspira_spp."
+  ],
+  "Bra_est": [
+    "Brachyspira_spp."
+  ],
+  "Bra_gdh": [
+    "Brachyspira_spp."
+  ],
+  "Bra_glp": [
+    "Brachyspira_spp."
+  ],
+  "Bra_pgm": [
+    "Brachyspira_spp."
+  ],
+  "Bra_thi": [
+    "Brachyspira_spp."
+  ],
+  "gap": [
+    "Brucella_spp.",
+    "Mycoplasma_hominis",
+    "Sinorhizobium_spp."
+  ],
+  "aroA": [
+    "Brucella_spp.",
+    "Streptococcus_suis",
+    "Yersinia_pseudotuberculosis"
+  ],
+  "glk": [
+    "Brucella_spp."
+  ],
+  "dnaK": [
+    "Brucella_spp.",
+    "Clostridium_septicum",
+    "Corynebacterium_diphtheriae",
+    "Flavobacterium_psychrophilum",
+    "Piscirickettsia_salmonis",
+    "Tenacibaculum_spp."
+  ],
+  "trpE": [
+    "Brucella_spp.",
+    "Moraxella_catarrhalis",
+    "Pseudomonas_aeruginosa",
+    "Yersinia_pseudotuberculosis"
+  ],
+  "cobQ": [
+    "Brucella_spp."
+  ],
+  "int_hyp": [
+    "Brucella_spp."
+  ],
+  "omp25": [
+    "Brucella_spp."
+  ],
+  "atpD": [
+    "Burkholderia_cepacia_complex",
+    "Cronobacter_spp.",
+    "Cutibacterium_acnes",
+    "Edwardsiella_spp.",
+    "Gallibacterium_anatis",
+    "Glaesserella_parasuis",
+    "Stenotrophomonas_maltophilia",
+    "Streptomyces_spp"
+  ],
+  "phaC": [
+    "Burkholderia_cepacia_complex"
+  ],
+  "trpB": [
+    "Burkholderia_cepacia_complex",
+    "Escherichia_coli#2",
+    "Flavobacterium_psychrophilum",
+    "Piscirickettsia_salmonis",
+    "Streptomyces_spp"
+  ],
+  "ace": [
+    "Burkholderia_pseudomallei"
+  ],
+  "gmhD": [
+    "Burkholderia_pseudomallei"
+  ],
+  "lipA": [
+    "Burkholderia_pseudomallei"
+  ],
+  "narK": [
+    "Burkholderia_pseudomallei"
+  ],
+  "ndh": [
+    "Burkholderia_pseudomallei"
+  ],
+  "Cco_aspA": [
+    "Campylobacter_concisus#curvus"
+  ],
+  "Cco_atpA": [
+    "Campylobacter_concisus#curvus"
+  ],
+  "Cco_glnA": [
+    "Campylobacter_concisus#curvus"
+  ],
+  "Cco_gltA": [
+    "Campylobacter_concisus#curvus"
+  ],
+  "Cco_glyA": [
+    "Campylobacter_concisus#curvus"
+  ],
+  "Cco_ilvD": [
+    "Campylobacter_concisus#curvus"
+  ],
+  "Cco_pgm": [
+    "Campylobacter_concisus#curvus"
+  ],
+  "Cfe_aspA": [
+    "Campylobacter_fetus"
+  ],
+  "Cfe_glnA": [
+    "Campylobacter_fetus"
+  ],
+  "Cfe_gltA": [
+    "Campylobacter_fetus"
+  ],
+  "Cfe_glyA": [
+    "Campylobacter_fetus"
+  ],
+  "Cfe_pgm": [
+    "Campylobacter_fetus"
+  ],
+  "Cfe_tkt": [
+    "Campylobacter_fetus"
+  ],
+  "Cfe_uncA": [
+    "Campylobacter_fetus"
+  ],
+  "Che_aspA": [
+    "Campylobacter_helveticus"
+  ],
+  "Che_atpA": [
+    "Campylobacter_helveticus"
+  ],
+  "Che_glnA": [
+    "Campylobacter_helveticus"
+  ],
+  "Che_gltA": [
+    "Campylobacter_helveticus"
+  ],
+  "Che_glyA": [
+    "Campylobacter_helveticus"
+  ],
+  "Che_pgm": [
+    "Campylobacter_helveticus"
+  ],
+  "Che_tkt": [
+    "Campylobacter_helveticus"
+  ],
+  "Chy_aspA": [
+    "Campylobacter_hyointestinalis"
+  ],
+  "Chy_atpA": [
+    "Campylobacter_hyointestinalis"
+  ],
+  "Chy_glnA": [
+    "Campylobacter_hyointestinalis"
+  ],
+  "Chy_gltA": [
+    "Campylobacter_hyointestinalis"
+  ],
+  "Chy_glyA": [
+    "Campylobacter_hyointestinalis"
+  ],
+  "Chy_pgm": [
+    "Campylobacter_hyointestinalis"
+  ],
+  "Chy_tkt": [
+    "Campylobacter_hyointestinalis"
+  ],
+  "Cin_aspA": [
+    "Campylobacter_insulaenigrae"
+  ],
+  "Cin_atpA": [
+    "Campylobacter_insulaenigrae"
+  ],
+  "Cin_glnA": [
+    "Campylobacter_insulaenigrae"
+  ],
+  "Cin_glyA": [
+    "Campylobacter_insulaenigrae"
+  ],
+  "Cin_pgi": [
+    "Campylobacter_insulaenigrae"
+  ],
+  "Cin_pgm": [
+    "Campylobacter_insulaenigrae"
+  ],
+  "Cin_tkt": [
+    "Campylobacter_insulaenigrae"
+  ],
+  "uncA": [
+    "Campylobacter_jejuni"
+  ],
+  "Cln_aspA": [
+    "Campylobacter_lanienae"
+  ],
+  "Cln_atpA": [
+    "Campylobacter_lanienae"
+  ],
+  "Cln_glnA": [
+    "Campylobacter_lanienae"
+  ],
+  "Cln_gltA": [
+    "Campylobacter_lanienae"
+  ],
+  "Cln_glyA": [
+    "Campylobacter_lanienae"
+  ],
+  "Cln_pgm": [
+    "Campylobacter_lanienae"
+  ],
+  "Cln_tkt": [
+    "Campylobacter_lanienae"
+  ],
+  "Cla_adk": [
+    "Campylobacter_lari"
+  ],
+  "Cla_atpA": [
+    "Campylobacter_lari"
+  ],
+  "Cla_glnA": [
+    "Campylobacter_lari"
+  ],
+  "Cla_glyA": [
+    "Campylobacter_lari"
+  ],
+  "Cla_pgi": [
+    "Campylobacter_lari"
+  ],
+  "Cla_pgm": [
+    "Campylobacter_lari"
+  ],
+  "Cla_tkt": [
+    "Campylobacter_lari"
+  ],
+  "Csp_aspA": [
+    "Campylobacter_sputorum"
+  ],
+  "Csp_atpA": [
+    "Campylobacter_sputorum"
+  ],
+  "Csp_glnA": [
+    "Campylobacter_sputorum"
+  ],
+  "Csp_gltA": [
+    "Campylobacter_sputorum"
+  ],
+  "Csp_glyA": [
+    "Campylobacter_sputorum"
+  ],
+  "Csp_pgm": [
+    "Campylobacter_sputorum"
+  ],
+  "Csp_tkt": [
+    "Campylobacter_sputorum"
+  ],
+  "Cup_adk": [
+    "Campylobacter_upsaliensis"
+  ],
+  "Cup_aspA": [
+    "Campylobacter_upsaliensis"
+  ],
+  "Cup_atpA": [
+    "Campylobacter_upsaliensis"
+  ],
+  "Cup_glnA": [
+    "Campylobacter_upsaliensis"
+  ],
+  "Cup_glyA": [
+    "Campylobacter_upsaliensis"
+  ],
+  "Cup_pgi": [
+    "Campylobacter_upsaliensis"
+  ],
+  "Cup_tkt": [
+    "Campylobacter_upsaliensis"
+  ],
+  "AAT1a": [
+    "Candida_albicans"
+  ],
+  "ACC1": [
+    "Candida_albicans"
+  ],
+  "ADP1": [
+    "Candida_albicans"
+  ],
+  "MPIb": [
+    "Candida_albicans"
+  ],
+  "SYA1": [
+    "Candida_albicans"
+  ],
+  "VPS13": [
+    "Candida_albicans"
+  ],
+  "ZWF1b": [
+    "Candida_albicans"
+  ],
+  "FKS": [
+    "Candida_glabrata"
+  ],
+  "LEU2": [
+    "Candida_glabrata",
+    "Candida_krusei"
+  ],
+  "NMT1": [
+    "Candida_glabrata",
+    "Candida_krusei"
+  ],
+  "TRP1": [
+    "Candida_glabrata",
+    "Candida_krusei"
+  ],
+  "UGP1": [
+    "Candida_glabrata"
+  ],
+  "URA3": [
+    "Candida_glabrata",
+    "Geotrichum_spp."
+  ],
+  "HIS3": [
+    "Candida_krusei"
+  ],
+  "ADE2": [
+    "Candida_krusei"
+  ],
+  "LYS2D": [
+    "Candida_krusei"
+  ],
+  "ICL1": [
+    "Candida_tropicalis"
+  ],
+  "MDR1": [
+    "Candida_tropicalis"
+  ],
+  "SAPT2": [
+    "Candida_tropicalis"
+  ],
+  "SAPT4": [
+    "Candida_tropicalis",
+    "Geotrichum_spp."
+  ],
+  "XYR1": [
+    "Candida_tropicalis"
+  ],
+  "ZWF1a": [
+    "Candida_tropicalis"
+  ],
+  "fbpA": [
+    "Candidatus_Liberibacter_solanacearum",
+    "Wolbachia"
+  ],
+  "dapE": [
+    "Carnobacterium_maltaromaticum",
+    "Listeria_monocytogenes"
+  ],
+  "ddlA": [
+    "Carnobacterium_maltaromaticum",
+    "Streptococcus_thermophilus"
+  ],
+  "glpQ": [
+    "Carnobacterium_maltaromaticum"
+  ],
+  "ilvE": [
+    "Carnobacterium_maltaromaticum"
+  ],
+  "leuS": [
+    "Carnobacterium_maltaromaticum",
+    "Enterobacter_cloacae",
+    "Klebsiella_aerogenes",
+    "Mycoplasma_iowae",
+    "Pediococcus_pentosaceus"
+  ],
+  "pyrE": [
+    "Carnobacterium_maltaromaticum",
+    "Streptococcus_bovis#equinus_complex__SBSEC_"
+  ],
+  "gatA": [
+    "Chlamydiales_spp."
+  ],
+  "oppA": [
+    "Chlamydiales_spp."
+  ],
+  "hflX": [
+    "Chlamydiales_spp."
+  ],
+  "gidA": [
+    "Chlamydiales_spp."
+  ],
+  "enoA": [
+    "Chlamydiales_spp."
+  ],
+  "hemN": [
+    "Chlamydiales_spp."
+  ],
+  "aspC": [
+    "Citrobacter_freundii"
+  ],
+  "fadD": [
+    "Citrobacter_freundii"
+  ],
+  "arcA": [
+    "Citrobacter_freundii"
+  ],
+  "dnaG": [
+    "Citrobacter_freundii"
+  ],
+  "lysP": [
+    "Citrobacter_freundii"
+  ],
+  "Actin": [
+    "Clonorchis_sinensis"
+  ],
+  "Cox1": [
+    "Clonorchis_sinensis"
+  ],
+  "Cox3": [
+    "Clonorchis_sinensis"
+  ],
+  "Ef_1a": [
+    "Clonorchis_sinensis"
+  ],
+  "Its1": [
+    "Clonorchis_sinensis"
+  ],
+  "Nad4": [
+    "Clonorchis_sinensis"
+  ],
+  "Nad5": [
+    "Clonorchis_sinensis"
+  ],
+  "Tubulin": [
+    "Clonorchis_sinensis"
+  ],
+  "dxr": [
+    "Clostridioides_difficile"
+  ],
+  "sodA": [
+    "Clostridioides_difficile",
+    "Clostridium_perfringens",
+    "Cutibacterium_acnes"
+  ],
+  "aroE": [
+    "Clostridium_botulinum",
+    "Cutibacterium_acnes",
+    "Enterococcus_faecalis",
+    "Helicobacter_cinaedi",
+    "Kingella_kingae",
+    "Mammaliicoccus_sciuri",
+    "Mannheimia_haemolytica",
+    "Neisseria_spp.",
+    "Ornithobacterium_rhinotracheale",
+    "Pseudomonas_aeruginosa",
+    "Staphylococcus_aureus",
+    "Staphylococcus_epidermidis",
+    "Staphylococcus_lugdunensis",
+    "Streptococcus_gallolyticus",
+    "Streptococcus_oralis",
+    "Streptococcus_pneumoniae"
+  ],
+  "aceK": [
+    "Clostridium_botulinum"
+  ],
+  "oppB": [
+    "Clostridium_botulinum"
+  ],
+  "hsp": [
+    "Clostridium_botulinum"
+  ],
+  "colA": [
+    "Clostridium_perfringens"
+  ],
+  "plc": [
+    "Clostridium_perfringens"
+  ],
+  "sigK": [
+    "Clostridium_perfringens"
+  ],
+  "pgk": [
+    "Clostridium_perfringens"
+  ],
+  "nadA": [
+    "Clostridium_perfringens"
+  ],
+  "ddl": [
+    "Clostridium_septicum",
+    "Enterococcus_faecium",
+    "Staphylococcus_lugdunensis",
+    "Streptococcus_bovis#equinus_complex__SBSEC_",
+    "Streptococcus_oralis",
+    "Streptococcus_pneumoniae",
+    "Streptococcus_uberis"
+  ],
+  "glpK": [
+    "Clostridium_septicum",
+    "Mammaliicoccus_sciuri",
+    "Staphylococcus_hominis"
+  ],
+  "gyrA": [
+    "Clostridium_septicum",
+    "Riemerella_anatipestifer"
+  ],
+  "dnaE": [
+    "Corynebacterium_diphtheriae",
+    "Vibrio_cholerae#2",
+    "Vibrio_parahaemolyticus"
+  ],
+  "leuA": [
+    "Corynebacterium_diphtheriae",
+    "Xylella_fastidiosa"
+  ],
+  "odhA": [
+    "Corynebacterium_diphtheriae"
+  ],
+  "glnS": [
+    "Cronobacter_spp.",
+    "Pseudomonas_fluorescens"
+  ],
+  "infB": [
+    "Cronobacter_spp.",
+    "Gallibacterium_anatis",
+    "Glaesserella_parasuis",
+    "Klebsiella_oxytoca",
+    "Klebsiella_pneumoniae",
+    "Tenacibaculum_spp."
+  ],
+  "pps": [
+    "Cronobacter_spp."
+  ],
+  "guaA": [
+    "Cutibacterium_acnes",
+    "Pseudomonas_aeruginosa",
+    "Shewanella_spp.",
+    "Stenotrophomonas_maltophilia"
+  ],
+  "tly": [
+    "Cutibacterium_acnes"
+  ],
+  "CAMP2": [
+    "Cutibacterium_acnes"
+  ],
+  "dcd": [
+    "Dichelobacter_nodosus"
+  ],
+  "dtdA": [
+    "Dichelobacter_nodosus"
+  ],
+  "folK": [
+    "Dichelobacter_nodosus"
+  ],
+  "recR": [
+    "Dichelobacter_nodosus"
+  ],
+  "rlmH": [
+    "Dichelobacter_nodosus"
+  ],
+  "rplI": [
+    "Dichelobacter_nodosus"
+  ],
+  "tsaE": [
+    "Dichelobacter_nodosus"
+  ],
+  "gapA": [
+    "Edwardsiella_spp.",
+    "Klebsiella_oxytoca",
+    "Klebsiella_pneumoniae",
+    "Stenotrophomonas_maltophilia",
+    "Vibrio_tapetis"
+  ],
+  "hsp60": [
+    "Edwardsiella_spp.",
+    "Vibrio_tapetis",
+    "Yersinia_ruckeri"
+  ],
+  "phoR": [
+    "Edwardsiella_spp."
+  ],
+  "rpoA": [
+    "Edwardsiella_spp.",
+    "Lactobacillus_salivarius",
+    "Vibrio_tapetis"
+  ],
+  "tuf": [
+    "Edwardsiella_spp.",
+    "Flavobacterium_psychrophilum",
+    "Macrococcus_canis",
+    "Macrococcus_caseolyticus",
+    "Mycoplasma_hominis",
+    "Staphylococcus_hominis",
+    "Staphylococcus_pseudintermedius"
+  ],
+  "dnaA": [
+    "Enterobacter_cloacae",
+    "Klebsiella_aerogenes",
+    "Mycoplasma_agalactiae",
+    "Mycoplasma_bovis",
+    "Mycoplasma_gallisepticum#2",
+    "Mycoplasma_hyorhinis",
+    "Streptococcus_thermophilus#2"
+  ],
+  "gdh": [
+    "Enterococcus_faecalis",
+    "Enterococcus_faecium",
+    "Kingella_kingae",
+    "Neisseria_spp.",
+    "Streptococcus_oralis",
+    "Streptococcus_pneumoniae"
+  ],
+  "gyd": [
+    "Enterococcus_faecalis",
+    "Enterococcus_faecium"
+  ],
+  "pstS": [
+    "Enterococcus_faecalis",
+    "Enterococcus_faecium"
+  ],
+  "gki": [
+    "Enterococcus_faecalis",
+    "Streptococcus_bovis#equinus_complex__SBSEC_",
+    "Streptococcus_canis",
+    "Streptococcus_dysgalactiae_equisimilis",
+    "Streptococcus_oralis",
+    "Streptococcus_pneumoniae",
+    "Streptococcus_pyogenes",
+    "Streptococcus_suis",
+    "Streptococcus_uberis"
+  ],
+  "xpt": [
+    "Enterococcus_faecalis",
+    "Streptococcus_canis",
+    "Streptococcus_dysgalactiae_equisimilis",
+    "Streptococcus_oralis",
+    "Streptococcus_pneumoniae",
+    "Streptococcus_pyogenes"
+  ],
+  "yqiL": [
+    "Enterococcus_faecalis",
+    "Staphylococcus_aureus",
+    "Staphylococcus_epidermidis",
+    "Staphylococcus_lugdunensis",
+    "Streptococcus_pyogenes",
+    "Streptococcus_uberis",
+    "Streptococcus_zooepidemicus"
+  ],
+  "purK": [
+    "Enterococcus_faecium"
+  ],
+  "purA": [
+    "Escherichia_coli#1",
+    "Macrococcus_canis",
+    "Macrococcus_caseolyticus",
+    "Staphylococcus_pseudintermedius"
+  ],
+  "dinB": [
+    "Escherichia_coli#2"
+  ],
+  "icdA": [
+    "Escherichia_coli#2"
+  ],
+  "pabB": [
+    "Escherichia_coli#2"
+  ],
+  "polB": [
+    "Escherichia_coli#2"
+  ],
+  "putP": [
+    "Escherichia_coli#2"
+  ],
+  "trpA": [
+    "Escherichia_coli#2"
+  ],
+  "uidA": [
+    "Escherichia_coli#2"
+  ],
+  "murG": [
+    "Flavobacterium_psychrophilum",
+    "Piscirickettsia_salmonis"
+  ],
+  "recN": [
+    "Gallibacterium_anatis"
+  ],
+  "thdF": [
+    "Gallibacterium_anatis"
+  ],
+  "NUP116": [
+    "Geotrichum_spp."
+  ],
+  "URA1": [
+    "Geotrichum_spp."
+  ],
+  "PLB3": [
+    "Geotrichum_spp."
+  ],
+  "6pgd": [
+    "Glaesserella_parasuis"
+  ],
+  "g3pd": [
+    "Glaesserella_parasuis"
+  ],
+  "fucK": [
+    "Haemophilus_influenzae"
+  ],
+  "23S_rRNA": [
+    "Helicobacter_cinaedi"
+  ],
+  "ppa": [
+    "Helicobacter_cinaedi",
+    "Helicobacter_pylori",
+    "Helicobacter_suis",
+    "Moraxella_catarrhalis",
+    "Mycoplasma_pneumoniae",
+    "Mycoplasma_synoviae"
+  ],
+  "cdtB": [
+    "Helicobacter_cinaedi"
+  ],
+  "efp": [
+    "Helicobacter_pylori",
+    "Helicobacter_suis",
+    "Moraxella_catarrhalis",
+    "Mycoplasma_synoviae",
+    "Piscirickettsia_salmonis"
+  ],
+  "mutY": [
+    "Helicobacter_pylori",
+    "Helicobacter_suis",
+    "Moraxella_catarrhalis"
+  ],
+  "trpC": [
+    "Helicobacter_pylori",
+    "Helicobacter_suis"
+  ],
+  "ureI": [
+    "Helicobacter_pylori"
+  ],
+  "yphC": [
+    "Helicobacter_pylori",
+    "Helicobacter_suis"
+  ],
+  "ureAB": [
+    "Helicobacter_suis"
+  ],
+  "abcZ": [
+    "Kingella_kingae",
+    "Listeria_monocytogenes",
+    "Moraxella_catarrhalis",
+    "Neisseria_spp."
+  ],
+  "cpn60": [
+    "Kingella_kingae",
+    "Macrococcus_canis",
+    "Macrococcus_caseolyticus",
+    "Staphylococcus_pseudintermedius",
+    "Streptococcus_suis"
+  ],
+  "pryG": [
+    "Klebsiella_aerogenes"
+  ],
+  "phoE": [
+    "Klebsiella_oxytoca",
+    "Klebsiella_pneumoniae"
+  ],
+  "tonB": [
+    "Klebsiella_oxytoca",
+    "Klebsiella_pneumoniae"
+  ],
+  "cox1": [
+    "Kudoa_septempunctata"
+  ],
+  "rnl": [
+    "Kudoa_septempunctata"
+  ],
+  "pstB": [
+    "Lactobacillus_salivarius"
+  ],
+  "rpsB": [
+    "Lactobacillus_salivarius"
+  ],
+  "nrdB": [
+    "Lactobacillus_salivarius",
+    "Orientia_tsutsugamushi"
+  ],
+  "parB": [
+    "Lactobacillus_salivarius"
+  ],
+  "terL": [
+    "Lactococcus_lactis_bacteriophage"
+  ],
+  "mcp": [
+    "Lactococcus_lactis_bacteriophage"
+  ],
+  "mtp": [
+    "Lactococcus_lactis_bacteriophage"
+  ],
+  "tmp": [
+    "Lactococcus_lactis_bacteriophage"
+  ],
+  "lys": [
+    "Lactococcus_lactis_bacteriophage"
+  ],
+  "glmU_1": [
+    "Leptospira_spp."
+  ],
+  "pntA_1": [
+    "Leptospira_spp."
+  ],
+  "sucA_1": [
+    "Leptospira_spp."
+  ],
+  "tpiA_1": [
+    "Leptospira_spp."
+  ],
+  "pfkB_1": [
+    "Leptospira_spp."
+  ],
+  "mreA_1": [
+    "Leptospira_spp."
+  ],
+  "caiB_1": [
+    "Leptospira_spp."
+  ],
+  "adk_2": [
+    "Leptospira_spp.#2"
+  ],
+  "glmU_2": [
+    "Leptospira_spp.#2"
+  ],
+  "icdA_2": [
+    "Leptospira_spp.#2"
+  ],
+  "lipL32_2": [
+    "Leptospira_spp.#2"
+  ],
+  "lipL41_2": [
+    "Leptospira_spp.#2"
+  ],
+  "mreA_2": [
+    "Leptospira_spp.#2"
+  ],
+  "pntA_2": [
+    "Leptospira_spp.#2"
+  ],
+  "adk_3": [
+    "Leptospira_spp.#3"
+  ],
+  "icdA_3": [
+    "Leptospira_spp.#3"
+  ],
+  "lipL41_3": [
+    "Leptospira_spp.#3"
+  ],
+  "rrs2_3": [
+    "Leptospira_spp.#3"
+  ],
+  "secY_3": [
+    "Leptospira_spp.#3"
+  ],
+  "lipL32_3": [
+    "Leptospira_spp.#3"
+  ],
+  "bglA": [
+    "Listeria_monocytogenes"
+  ],
+  "cat": [
+    "Listeria_monocytogenes"
+  ],
+  "dat": [
+    "Listeria_monocytogenes",
+    "Staphylococcus_lugdunensis"
+  ],
+  "ldh": [
+    "Listeria_monocytogenes",
+    "Staphylococcus_lugdunensis"
+  ],
+  "lhkA": [
+    "Listeria_monocytogenes"
+  ],
+  "ack": [
+    "Macrococcus_canis",
+    "Macrococcus_caseolyticus",
+    "Mammaliicoccus_sciuri",
+    "Staphylococcus_pseudintermedius"
+  ],
+  "fdh": [
+    "Macrococcus_canis",
+    "Macrococcus_caseolyticus",
+    "Staphylococcus_pseudintermedius"
+  ],
+  "sar": [
+    "Macrococcus_canis",
+    "Macrococcus_caseolyticus",
+    "Staphylococcus_pseudintermedius"
+  ],
+  "pta1": [
+    "Mammaliicoccus_sciuri"
+  ],
+  "deoD": [
+    "Mannheimia_haemolytica"
+  ],
+  "gapDH": [
+    "Mannheimia_haemolytica"
+  ],
+  "gnd": [
+    "Mannheimia_haemolytica",
+    "Mycobacteroides_abscessus",
+    "Sinorhizobium_spp."
+  ],
+  "argE": [
+    "Melissococcus_plutonius"
+  ],
+  "galK": [
+    "Melissococcus_plutonius"
+  ],
+  "gbpB": [
+    "Melissococcus_plutonius"
+  ],
+  "purR": [
+    "Melissococcus_plutonius"
+  ],
+  "glyBeta": [
+    "Moraxella_catarrhalis"
+  ],
+  "S14Z": [
+    "Mycobacteria_spp."
+  ],
+  "L35": [
+    "Mycobacteria_spp."
+  ],
+  "S19": [
+    "Mycobacteria_spp."
+  ],
+  "L19": [
+    "Mycobacteria_spp."
+  ],
+  "S12": [
+    "Mycobacteria_spp."
+  ],
+  "S8": [
+    "Mycobacteria_spp."
+  ],
+  "L16": [
+    "Mycobacteria_spp."
+  ],
+  "S7": [
+    "Mycobacteria_spp."
+  ],
+  "argH": [
+    "Mycobacteroides_abscessus"
+  ],
+  "cya": [
+    "Mycobacteroides_abscessus"
+  ],
+  "murC": [
+    "Mycobacteroides_abscessus",
+    "Streptococcus_thermophilus#2"
+  ],
+  "gltX": [
+    "Mycoplasma_agalactiae",
+    "Mycoplasma_bovis",
+    "Mycoplasma_hyorhinis"
+  ],
+  "metS": [
+    "Mycoplasma_agalactiae"
+  ],
+  "tufA": [
+    "Mycoplasma_agalactiae"
+  ],
+  "pgiB": [
+    "Mycoplasma_anserisalpingitidis"
+  ],
+  "plsY": [
+    "Mycoplasma_anserisalpingitidis"
+  ],
+  "gpsA": [
+    "Mycoplasma_bovis",
+    "Orientia_tsutsugamushi"
+  ],
+  "pta2": [
+    "Mycoplasma_bovis"
+  ],
+  "tdk": [
+    "Mycoplasma_bovis",
+    "Streptococcus_uberis",
+    "Streptococcus_zooepidemicus"
+  ],
+  "dppC": [
+    "Mycoplasma_gallisepticum#1",
+    "Mycoplasma_iowae"
+  ],
+  "DUF3196": [
+    "Mycoplasma_gallisepticum#1"
+  ],
+  "lgT": [
+    "Mycoplasma_gallisepticum#1"
+  ],
+  "mraW": [
+    "Mycoplasma_gallisepticum#1"
+  ],
+  "plsC": [
+    "Mycoplasma_gallisepticum#1"
+  ],
+  "ugpA": [
+    "Mycoplasma_gallisepticum#1"
+  ],
+  "atpG2": [
+    "Mycoplasma_gallisepticum#2"
+  ],
+  "ruvB": [
+    "Mycoplasma_gallisepticum#2"
+  ],
+  "ftsY": [
+    "Mycoplasma_hominis"
+  ],
+  "ulaA": [
+    "Mycoplasma_iowae"
+  ],
+  "valS": [
+    "Mycoplasma_iowae",
+    "Ureaplasma_spp."
+  ],
+  "rpoC": [
+    "Mycoplasma_iowae"
+  ],
+  "kdpA": [
+    "Mycoplasma_iowae"
+  ],
+  "arcC": [
+    "Mycoplasma_pneumoniae",
+    "Staphylococcus_aureus",
+    "Staphylococcus_chromogenes",
+    "Staphylococcus_epidermidis",
+    "Staphylococcus_haemolyticus",
+    "Staphylococcus_hominis",
+    "Streptococcus_uberis",
+    "Streptococcus_zooepidemicus"
+  ],
+  "nagC": [
+    "Mycoplasma_synoviae"
+  ],
+  "pdhC": [
+    "Neisseria_spp."
+  ],
+  "nuoF": [
+    "Orientia_tsutsugamushi"
+  ],
+  "ppdK": [
+    "Orientia_tsutsugamushi"
+  ],
+  "sucB": [
+    "Orientia_tsutsugamushi"
+  ],
+  "sucD": [
+    "Orientia_tsutsugamushi"
+  ],
+  "gdhA": [
+    "Ornithobacterium_rhinotracheale"
+  ],
+  "pmi": [
+    "Ornithobacterium_rhinotracheale"
+  ],
+  "sigF": [
+    "Paenibacillus_larvae"
+  ],
+  "glpT": [
+    "Paenibacillus_larvae"
+  ],
+  "Natrans": [
+    "Paenibacillus_larvae"
+  ],
+  "ftsA": [
+    "Paenibacillus_larvae"
+  ],
+  "clpC": [
+    "Paenibacillus_larvae"
+  ],
+  "RIRDC_adk": [
+    "Pasteurella_multocida#1"
+  ],
+  "RIRDC_est": [
+    "Pasteurella_multocida#1"
+  ],
+  "RIRDC_pmi": [
+    "Pasteurella_multocida#1"
+  ],
+  "RIRDC_zwf": [
+    "Pasteurella_multocida#1"
+  ],
+  "RIRDC_mdh": [
+    "Pasteurella_multocida#1"
+  ],
+  "RIRDC_gdh": [
+    "Pasteurella_multocida#1"
+  ],
+  "RIRDC_pgi": [
+    "Pasteurella_multocida#1"
+  ],
+  "mh_adk": [
+    "Pasteurella_multocida#2"
+  ],
+  "mh_aroA": [
+    "Pasteurella_multocida#2"
+  ],
+  "mh_deoD": [
+    "Pasteurella_multocida#2"
+  ],
+  "mh_gdhA": [
+    "Pasteurella_multocida#2"
+  ],
+  "mh_g6pd": [
+    "Pasteurella_multocida#2"
+  ],
+  "mh_mdh": [
+    "Pasteurella_multocida#2"
+  ],
+  "mh_pgi": [
+    "Pasteurella_multocida#2"
+  ],
+  "dalR": [
+    "Pediococcus_pentosaceus"
+  ],
+  "pgI": [
+    "Pediococcus_pentosaceus"
+  ],
+  "pntA": [
+    "Photobacterium_damselae",
+    "Vibrio_cholerae",
+    "Vibrio_parahaemolyticus",
+    "Vibrio_vulnificus"
+  ],
+  "pyrC": [
+    "Photobacterium_damselae",
+    "Vibrio_cholerae",
+    "Vibrio_parahaemolyticus",
+    "Vibrio_vulnificus"
+  ],
+  "toxR": [
+    "Photobacterium_damselae"
+  ],
+  "ftsQ": [
+    "Porphyromonas_gingivalis"
+  ],
+  "gpdxJ": [
+    "Porphyromonas_gingivalis"
+  ],
+  "hagB": [
+    "Porphyromonas_gingivalis"
+  ],
+  "mcmA": [
+    "Porphyromonas_gingivalis"
+  ],
+  "pepO": [
+    "Porphyromonas_gingivalis"
+  ],
+  "pga": [
+    "Porphyromonas_gingivalis"
+  ],
+  "acsA": [
+    "Pseudomonas_aeruginosa"
+  ],
+  "mutL": [
+    "Pseudomonas_aeruginosa"
+  ],
+  "nuoD": [
+    "Pseudomonas_aeruginosa",
+    "Pseudomonas_fluorescens",
+    "Stenotrophomonas_maltophilia"
+  ],
+  "ileS": [
+    "Pseudomonas_fluorescens",
+    "Pseudomonas_putida"
+  ],
+  "argS": [
+    "Pseudomonas_putida"
+  ],
+  "nuoC": [
+    "Pseudomonas_putida"
+  ],
+  "gapdh": [
+    "Rhodococcus_spp."
+  ],
+  "icl": [
+    "Rhodococcus_spp."
+  ],
+  "dnaB": [
+    "Riemerella_anatipestifer"
+  ],
+  "gluD": [
+    "Riemerella_anatipestifer"
+  ],
+  "gpi": [
+    "Riemerella_anatipestifer"
+  ],
+  "aroC": [
+    "Salmonella_enterica"
+  ],
+  "hemD": [
+    "Salmonella_enterica"
+  ],
+  "hisD": [
+    "Salmonella_enterica"
+  ],
+  "purE": [
+    "Salmonella_enterica"
+  ],
+  "thrA": [
+    "Salmonella_enterica",
+    "Streptococcus_suis",
+    "Yersinia_pseudotuberculosis",
+    "Yersinia_ruckeri"
+  ],
+  "ALTS1": [
+    "Saprolegnia_parasitica"
+  ],
+  "COX1": [
+    "Saprolegnia_parasitica"
+  ],
+  "GLUT": [
+    "Saprolegnia_parasitica",
+    "Trichomonas_vaginalis"
+  ],
+  "NAD1": [
+    "Saprolegnia_parasitica"
+  ],
+  "RPB2": [
+    "Saprolegnia_parasitica"
+  ],
+  "SHMT": [
+    "Saprolegnia_parasitica",
+    "Trichomonas_vaginalis"
+  ],
+  "TUBB": [
+    "Saprolegnia_parasitica"
+  ],
+  "16S_rRNA": [
+    "Shewanella_spp."
+  ],
+  "atpB": [
+    "Shewanella_spp."
+  ],
+  "rpoS": [
+    "Shewanella_spp."
+  ],
+  "asd": [
+    "Sinorhizobium_spp.",
+    "Vibrio_cholerae#2"
+  ],
+  "edd": [
+    "Sinorhizobium_spp."
+  ],
+  "glnD": [
+    "Sinorhizobium_spp."
+  ],
+  "nuoE1": [
+    "Sinorhizobium_spp."
+  ],
+  "ordL2": [
+    "Sinorhizobium_spp."
+  ],
+  "hutU": [
+    "Staphylococcus_chromogenes"
+  ],
+  "menF": [
+    "Staphylococcus_chromogenes"
+  ],
+  "gtr": [
+    "Staphylococcus_epidermidis",
+    "Staphylococcus_hominis",
+    "Streptococcus_canis",
+    "Streptococcus_dysgalactiae_equisimilis",
+    "Streptococcus_pyogenes"
+  ],
+  "mutS": [
+    "Staphylococcus_epidermidis",
+    "Streptococcus_bovis#equinus_complex__SBSEC_",
+    "Streptococcus_canis",
+    "Streptococcus_dysgalactiae_equisimilis",
+    "Streptococcus_pyogenes",
+    "Streptococcus_suis"
+  ],
+  "pyrR": [
+    "Staphylococcus_epidermidis"
+  ],
+  "SH_1200": [
+    "Staphylococcus_haemolyticus"
+  ],
+  "hemH": [
+    "Staphylococcus_haemolyticus"
+  ],
+  "leuB": [
+    "Staphylococcus_haemolyticus"
+  ],
+  "SH1431": [
+    "Staphylococcus_haemolyticus"
+  ],
+  "cfxE": [
+    "Staphylococcus_haemolyticus"
+  ],
+  "Ribose_ABC": [
+    "Staphylococcus_haemolyticus"
+  ],
+  "mutM": [
+    "Stenotrophomonas_maltophilia"
+  ],
+  "adhP": [
+    "Streptococcus_agalactiae"
+  ],
+  "atr": [
+    "Streptococcus_agalactiae"
+  ],
+  "sdhA": [
+    "Streptococcus_agalactiae"
+  ],
+  "glcK": [
+    "Streptococcus_agalactiae",
+    "Streptococcus_thermophilus"
+  ],
+  "mutS2": [
+    "Streptococcus_bovis#equinus_complex__SBSEC_"
+  ],
+  "proS": [
+    "Streptococcus_bovis#equinus_complex__SBSEC_",
+    "Streptococcus_zooepidemicus"
+  ],
+  "thrS": [
+    "Streptococcus_bovis#equinus_complex__SBSEC_",
+    "Ureaplasma_spp."
+  ],
+  "murI": [
+    "Streptococcus_canis",
+    "Streptococcus_dysgalactiae_equisimilis",
+    "Streptococcus_pyogenes"
+  ],
+  "recP": [
+    "Streptococcus_canis",
+    "Streptococcus_dysgalactiae_equisimilis",
+    "Streptococcus_oralis",
+    "Streptococcus_pneumoniae",
+    "Streptococcus_pyogenes",
+    "Streptococcus_uberis"
+  ],
+  "yqiZ": [
+    "Streptococcus_canis"
+  ],
+  "atoB": [
+    "Streptococcus_dysgalactiae_equisimilis"
+  ],
+  "glgB": [
+    "Streptococcus_gallolyticus"
+  ],
+  "p20": [
+    "Streptococcus_gallolyticus"
+  ],
+  "trpD": [
+    "Streptococcus_gallolyticus"
+  ],
+  "hexB": [
+    "Streptococcus_oralis"
+  ],
+  "spi": [
+    "Streptococcus_pneumoniae",
+    "Streptococcus_zooepidemicus"
+  ],
+  "dpr": [
+    "Streptococcus_suis"
+  ],
+  "proA": [
+    "Streptococcus_thermophilus"
+  ],
+  "ptsI": [
+    "Streptococcus_thermophilus"
+  ],
+  "serB": [
+    "Streptococcus_thermophilus"
+  ],
+  "carB": [
+    "Streptococcus_thermophilus#2"
+  ],
+  "murE": [
+    "Streptococcus_thermophilus#2"
+  ],
+  "pepN": [
+    "Streptococcus_thermophilus#2"
+  ],
+  "nrdE": [
+    "Streptococcus_zooepidemicus"
+  ],
+  "fh": [
+    "Taylorella_spp."
+  ],
+  "shmt": [
+    "Taylorella_spp."
+  ],
+  "txn": [
+    "Taylorella_spp."
+  ],
+  "rlmN": [
+    "Tenacibaculum_spp."
+  ],
+  "tgt": [
+    "Tenacibaculum_spp."
+  ],
+  "TP0136": [
+    "Treponema_pallidum"
+  ],
+  "TP0548": [
+    "Treponema_pallidum"
+  ],
+  "TP0705": [
+    "Treponema_pallidum"
+  ],
+  "TRYP": [
+    "Trichomonas_vaginalis"
+  ],
+  "FT2A": [
+    "Trichomonas_vaginalis"
+  ],
+  "ALTS": [
+    "Trichomonas_vaginalis"
+  ],
+  "DMRP": [
+    "Trichomonas_vaginalis"
+  ],
+  "M6PI": [
+    "Trichomonas_vaginalis"
+  ],
+  "ftsH": [
+    "Ureaplasma_spp."
+  ],
+  "rpL22": [
+    "Ureaplasma_spp."
+  ],
+  "metE": [
+    "Vibrio_cholerae"
+  ],
+  "purM": [
+    "Vibrio_cholerae",
+    "Vibrio_vulnificus"
+  ],
+  "lap": [
+    "Vibrio_cholerae#2"
+  ],
+  "dtdS": [
+    "Vibrio_parahaemolyticus",
+    "Vibrio_vulnificus"
+  ],
+  "tnaA": [
+    "Vibrio_parahaemolyticus",
+    "Vibrio_vulnificus"
+  ],
+  "pyrH": [
+    "Vibrio_spp.",
+    "Vibrio_tapetis"
+  ],
+  "fstZ": [
+    "Vibrio_tapetis"
+  ],
+  "rctB": [
+    "Vibrio_tapetis"
+  ],
+  "topA": [
+    "Vibrio_tapetis"
+  ],
+  "lysA": [
+    "Vibrio_vulnificus"
+  ],
+  "gatB": [
+    "Wolbachia"
+  ],
+  "coxA": [
+    "Wolbachia"
+  ],
+  "hcpA": [
+    "Wolbachia"
+  ],
+  "petC": [
+    "Xylella_fastidiosa"
+  ],
+  "malF": [
+    "Xylella_fastidiosa"
+  ],
+  "cysG": [
+    "Xylella_fastidiosa"
+  ],
+  "holC": [
+    "Xylella_fastidiosa"
+  ],
+  "gltT": [
+    "Xylella_fastidiosa"
+  ],
+  "argA": [
+    "Yersinia_pseudotuberculosis"
+  ],
+  "tmk": [
+    "Yersinia_pseudotuberculosis"
+  ]
+}
